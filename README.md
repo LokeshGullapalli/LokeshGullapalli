@@ -57,7 +57,7 @@ Welcome to my GitHub! I’m passionate about leveraging cloud computing and mach
 - Guided 240+ students across AWS Solution Architecture and Database courses.
 - Improved student performance with tailored support, leading to a 15% average grade increase.
 
-**Cloud Engineer**  
+**Engineer**  
 *Fulcrum GT, Hyderabad, India* | *May 2021 - May 2023*  
 - Configured AWS infrastructure and automated deployments using Terraform and Jenkins.
 - Enhanced system efficiency through scripting and CI/CD pipeline management.
