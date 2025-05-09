@@ -48,23 +48,6 @@ Welcome to my GitHub! I’m passionate about leveraging cloud computing and mach
   *Chaitanya Bharathi Institute of Technology*  
   *Hyderabad, India* | *May 2022*
 
----
-
-## 💼 **Work Experience**
-
-**Graduate Teaching Assistant**  
-*The University of Texas at Dallas* | *Aug 2023 – May 2024*  
-- Guided 240+ students across AWS Solution Architecture and Database courses.
-- Improved student performance with tailored support, leading to a 15% average grade increase.
-
-**Engineer**  
-*Fulcrum GT, Hyderabad, India* | *May 2021 - May 2023*  
-- Configured AWS infrastructure and automated deployments using Terraform and Jenkins.
-- Enhanced system efficiency through scripting and CI/CD pipeline management.
-
-**Cloud Engineer Intern**  
-*SOLARA Home, Hyderabad, India* | *April 2020 - April 2021*  
-- Deployed and managed scalable AWS infrastructure with a focus on high-availability and fault tolerance.
 
 ---
 
